@@ -7,7 +7,7 @@
 </p>
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋𝐀𝐍𝐍𝐈𝐄+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
 
-<p align="center"><a href="https://t.me/JARVIS_V2"><img src="https://telegra.ph/file/14fe5f59dc8e52333182e.jpg" width="600"></a></p>
+<p align="center"><a href="https://t.me/BTW_AYU_9"><img src="https://telegra.ph/file/14fe5f59dc8e52333182e.jpg" width="600"></a></p>
 
 <h3> <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+💗+𝓣𝓗𝓘𝓢+𝓘𝓢+𝓣𝓗𝓔+𝓜𝓞𝓢𝓣+𝓐𝓓𝓥𝓐𝓝𝓒𝓔+𝓜𝓤𝓢𝓘𝓒;𝓜𝓐𝓝𝓐𝓖𝓔𝓜𝓔𝓜𝓔𝓝𝓣+𝓡𝓞𝓑𝓞𝓣+🔥+🥀;𝓑𝓨+𝓙𝓐𝓡𝓥𝓘𝓢2.𝓞+✨+🦋+💗+"></b></h3>
 
