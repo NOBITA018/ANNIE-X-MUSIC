@@ -5,9 +5,9 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋𝐀𝐍𝐍𝐈𝐄+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋MUFASA+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
 
-<p align="center"><a href="https://t.me/BTW_AYU_9"><img src="https://telegra.ph/file/14fe5f59dc8e52333182e.jpg" width="600"></a></p>
+<p align="center"><a href="https://t.me/NOBI4TA"><img src="https://telegra.ph/file/14fe5f59dc8e52333182e.jpg" width="600"></a></p>
 
 <h3> <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+💗+𝓣𝓗𝓘𝓢+𝓘𝓢+𝓣𝓗𝓔+𝓜𝓞𝓢𝓣+𝓐𝓓𝓥𝓐𝓝𝓒𝓔+𝓜𝓤𝓢𝓘𝓒;𝓜𝓐𝓝𝓐𝓖𝓔𝓜𝓔𝓜𝓔𝓝𝓣+𝓡𝓞𝓑𝓞𝓣+🔥+🥀;𝓑𝓨+𝓙𝓐𝓡𝓥𝓘𝓢2.𝓞+✨+🦋+💗+"></b></h3>
 
@@ -70,11 +70,12 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
     </details>
 
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 💗🥀
-<a href="https://t.me/celestialpfp"><img title="Telegram" src="https://img.shields.io/badge/CRISTAL-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/NOBI4TA"><img title="Telegram" src="https://img.shields.io/badge/NOBITA-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/RIDHI_QT"><img title="Telegram" src="https://img.shields.io/badge/RIDHIMA-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=s43676507@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/@rajnisha3"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://instagram.com/anine930"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://t.me/+RN6PcuIKBHViMzll"><img title="Support" src="https://img.shields.io/badge/BACKBENCHER-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/+IBPUZ6ZMpHBkOTY1"><img title="Support" src="https://img.shields.io/badge/GROUP-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
